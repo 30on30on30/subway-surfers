@@ -1,1 +1,3 @@
-comin soon.
+# docs
+not much to it...
+read the releases for more info 🙃🙃
